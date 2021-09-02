@@ -2,4 +2,4 @@
 ## Exercise 1: A Good First Program
 print("Hello World!")
 
-# Personal Comment: learn how to use [VIM] 
+# Personal Comment: learn how to use [VIM].
